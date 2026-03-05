@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Samson 👋
 
-<!--
-**samoskillxteam/samoskillxteam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack & Systems Engineer focused on building scalable SaaS platforms and financial systems.
 
-Here are some ideas to get you started:
+I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Laravel API architecture  
+• React Single Page Applications  
+• SaaS monetization systems  
+• financial data modeling  
+• scalable backend architecture  
+
+---
+
+# Tech Stack
+
+Backend
+
+Laravel  
+PHP  
+MySQL  
+REST APIs  
+
+Frontend
+
+React  
+JavaScript  
+Bootstrap  
+Material UI  
+
+Infrastructure
+
+Docker  
+Stripe integrations  
+API-first architectures  
+
+---
+
+# Featured Projects
+
+
+
+
+## Personal Finance SaaS Platform
+
+Full-stack personal finance management platform built with Laravel and React.
+
+Features:
+
+• financial analytics dashboard  
+• income and expense tracking  
+• budgeting system  
+• debt lifecycle management  
+• Stripe subscription monetization  
+
+Repository:
