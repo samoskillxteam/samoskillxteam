@@ -78,11 +78,11 @@ Currently exploring:
 
 # Connect
 
-Repository: [https://github.com/yourusername](https://github.com/samoskillxteam/Multi-Tenant-Donation-Saas-Architecture)
+Repository: https://github.com/samoskillxteam
 
-LinkedIn: add your link
+LinkedIn: [add your link](https://www.linkedin.com/in/samsonnnah/)
 
-Portfolio: optional
+Portfolio: [optional](https://samsonnnah.name.ng/)
 
 
 ## Personal Finance SaaS Platform
