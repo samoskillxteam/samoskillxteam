@@ -9,21 +9,21 @@ I specialize in:
 • SaaS monetization systems  
 • financial data modeling  
 • scalable backend architecture  
+• other frameworks
 
 ---
 
 # Tech Stack
 
 Backend
-
 Laravel  
 PHP  
 MySQL  
 REST APIs  
 
 Frontend
-
 React  
+Vue
 JavaScript  
 Bootstrap  
 Material UI  
@@ -31,7 +31,7 @@ Material UI
 Infrastructure
 
 Docker  
-Stripe integrations  
+Apim Payments, SMS or LLM integrations  
 API-first architectures  
 
 ---
@@ -39,11 +39,9 @@ API-first architectures
 # Featured Projects
 
 ## Multi-Tenant Financial Governance Platform
-
 Architecture-focused SaaS platform designed for hierarchical organizations.
 
 Key concepts implemented:
-
 • multi-tenant architecture  
 • hierarchical RBAC governance  
 • financial traceability systems  
@@ -55,7 +53,6 @@ Key concepts implemented:
 # Engineering Philosophy
 
 I focus on building systems that prioritize:
-
 • **data integrity**  
 • **clear architecture**  
 • **scalable system design**  
@@ -68,7 +65,6 @@ Rather than optimizing purely for feature velocity, I design systems with **long
 # Current Focus
 
 Currently exploring:
-
 • SaaS platform architecture  
 • financial systems engineering  
 • scalable Laravel backend systems  
@@ -77,20 +73,15 @@ Currently exploring:
 ---
 
 # Connect
-
 Repository: https://github.com/samoskillxteam
-
-LinkedIn: [add your link](https://www.linkedin.com/in/samsonnnah/)
-
-Portfolio: [optional](https://samsonnnah.name.ng/)
+LinkedIn: [LINK](https://www.linkedin.com/in/samsonnnah/)
+Portfolio: [LINK](https://samsonnnah.name.ng/)
 
 
 ## Personal Finance SaaS Platform
-
-Full-stack personal finance management platform built with Laravel and React.
+Built with Laravel and React.
 
 Features:
-
 • financial analytics dashboard  
 • income and expense tracking  
 • budgeting system  
